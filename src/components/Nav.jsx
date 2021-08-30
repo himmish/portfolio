@@ -120,6 +120,8 @@ export default function Nav() {
             <Typography variant="h5">
             Hey There !
             <br />
+            This is Himanshu.
+            <br />
             After about few months of procastination I decided to
             finally make this website. 
             <br />
