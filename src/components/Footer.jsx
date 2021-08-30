@@ -2,6 +2,7 @@ export default function Footer(){
 
     return (
         <div>
+        
         <footer class="bg-dark text-center text-white">
         <div class="container p-4">
             <a href="https://twitter.com/himansh37398221" style={{marginRight: '5px'}}>
